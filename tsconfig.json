@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "strict": true,
+        "allowJs": false,
+        "outDir": "dist",
+        "baseUrl": ".",
+        "noUnusedLocals": true,
+        "noEmitOnError": true,
+        "noUnusedParameters": false,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
