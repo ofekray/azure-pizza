@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ofekray/azure-pizza"
   },
   "author": "Ofek Bashan",
   "license": "ISC",
-  "homepage": "#readme",
+  "homepage": "https://github.com/ofekray/azure-pizza/blob/master/README.md",
   "dependencies": {
     "@azure/cosmos": "^3.5.2",
     "class-transformer": "^0.2.3",
